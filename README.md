@@ -1,4 +1,4 @@
-# Unity Movement Script v1.5
+# Unity Movement Script
  A first person movement script made for unity 3D
 
 
